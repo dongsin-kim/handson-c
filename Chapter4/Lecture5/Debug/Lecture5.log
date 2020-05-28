@@ -1,0 +1,4 @@
+﻿  lecture5.c
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture5\lecture5.c(18,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Debug\Lecture5.exe not found or not built by the last incremental link; performing full link
+  Lecture5.vcxproj -> C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Debug\Lecture5.exe

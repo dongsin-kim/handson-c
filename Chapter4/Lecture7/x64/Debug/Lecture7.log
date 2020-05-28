@@ -1,0 +1,4 @@
+﻿  lecture7.c
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture7\lecture7.c(35,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture7\lecture7.c(35,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Lecture7.vcxproj -> C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\x64\Debug\Lecture7.exe

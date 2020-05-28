@@ -1,0 +1,4 @@
+﻿  lecture4.c
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture4\lecture4.c(7,28): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture4\lecture4.c(7,48): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+  Lecture4.vcxproj -> C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\x64\Debug\Lecture4.exe

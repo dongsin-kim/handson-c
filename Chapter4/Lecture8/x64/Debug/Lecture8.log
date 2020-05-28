@@ -1,0 +1,7 @@
+﻿  lecture8.c
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture8\lecture8.c(27,35): warning C4307: '+': signed integral constant overflow
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture8\lecture8.c(27,48): warning C4307: '+': signed integral constant overflow
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture8\lecture8.c(27,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'int'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture8\lecture8.c(27,9): message : consider using '%d' in the format string
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture8\lecture8.c(27,9): message : consider using '%I32d' in the format string
+  Lecture8.vcxproj -> C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\x64\Debug\Lecture8.exe

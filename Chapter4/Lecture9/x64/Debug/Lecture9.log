@@ -1,0 +1,9 @@
+﻿  lecture9.c
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(15,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\Lecture9\lecture9.c(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lecture9.vcxproj -> C:\Users\quads\OneDrive\git-repository\handson-c\Chapter4\x64\Debug\Lecture9.exe
